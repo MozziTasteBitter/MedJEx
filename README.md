@@ -1,5 +1,6 @@
 # MedJEx
 This repo is the official implementation of our paper "MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score" accepted in EMNLP 2022.
+Training codes and dataset will be updated very soon.
 
 # Usage
 1. First install all requirements
